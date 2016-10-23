@@ -17,7 +17,7 @@ public class HelloWorld {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws IOException {
-		System.out.println("Hello ASE2016 - how are you? :)");
+		System.out.println("Hello ASE2016 - how are you now? :)");
 		System.out.println("Please enter your name: ");
 		
 		BufferedReader inReader = new BufferedReader(new InputStreamReader(System.in));
